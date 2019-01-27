@@ -21,7 +21,11 @@ Exposing all the study materials on [askiitians.com](https://www.askiitians.com/
  */
 ```
 
+#### For Windows :
+
 ```
+C:\>git clone https://github.com/0x48piraj/AskIITians-POC.git
+C:\>cd AskIITians-POC
 C:\>py -3 poc.py
 ```
 
