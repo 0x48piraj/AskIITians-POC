@@ -206,4 +206,6 @@ C:\_askIITiansBug#1>
 
 ### CONTRIBUTING
 
+If you want to contribute to a project and make it better, your help is very welcome.
+
 You can see into `AskIITiansDumpedJuicyURLs.txt` to get more idea on the website structure of *[askiitians.com](https://www.askiitians.com/)*
