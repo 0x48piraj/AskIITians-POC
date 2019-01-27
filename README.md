@@ -21,6 +21,13 @@ Exposing all the study materials on [askiitians.com](https://www.askiitians.com/
  */
 ```
 
+#### Install the required modules :
+
+```
+requests
+bs4 (BeautifulSoup)
+```
+
 #### For Linux Flavored Distros
 
 ```
