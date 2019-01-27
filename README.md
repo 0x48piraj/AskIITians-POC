@@ -21,6 +21,18 @@ Exposing all the study materials on [askiitians.com](https://www.askiitians.com/
  */
 ```
 
+#### For Linux Flavored Distros
+
+```
+$ git clone https://github.com/0x48piraj/AskIITians-POC.git
+$ cd AskIITians-POC
+```
+
+then,
+
+`$ python3 poc.py` or `$ python poc.py` depending on your python version.
+
+
 #### For Windows :
 
 ```
