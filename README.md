@@ -43,8 +43,8 @@ $ cd AskIITians-POC
 #### For Windows :
 
 ```
-C:\> py -m pip install requests
-C:\> py -m pip install bs4
+C:\>py -m pip install requests
+C:\>py -m pip install bs4
 C:\>git clone https://github.com/0x48piraj/AskIITians-POC.git
 C:\>cd AskIITians-POC
 C:\>py poc.py
