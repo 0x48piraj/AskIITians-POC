@@ -2,7 +2,7 @@
 
 `Date of Bug : 5/3/2017`
 
-Exposing all the study materials on [askiitians.com](https://www.askiitians.com/) via scrapping. 
+Exposing all the study materials on **[askiitians.com](https://www.askiitians.com/)**
 
 
 ```
@@ -21,7 +21,7 @@ Exposing all the study materials on [askiitians.com](https://www.askiitians.com/
  */
 ```
 
-#### Install the required modules :
+### Install the required modules :
 
 ```
 requests
@@ -53,7 +53,7 @@ C:\_askIITiansBug#1>py poc.py
 **Satisfaction guaranteed.**
 
 
-#### Running the Beast :
+### Running the Beast :
 
 ```
 C:\_askIITiansBug#1>py -3 poc.py
