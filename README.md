@@ -30,12 +30,12 @@ bs4 (BeautifulSoup)
 
 #### For Linux Flavored Distros
 
+`$ pip3 install requests` or `$ pip install bs4` depending on your python version.
+
 ```
 $ git clone https://github.com/0x48piraj/AskIITians-POC.git
 $ cd AskIITians-POC
 ```
-
-then,
 
 `$ python3 poc.py` or `$ python poc.py` depending on your python version.
 
@@ -43,6 +43,8 @@ then,
 #### For Windows :
 
 ```
+C:\> py -m pip install requests
+C:\> py -m pip install bs4
 C:\>git clone https://github.com/0x48piraj/AskIITians-POC.git
 C:\>cd AskIITians-POC
 C:\>py -3 poc.py
