@@ -202,3 +202,8 @@ KeyboardInterrupt
 
 C:\_askIITiansBug#1>
 ```
+
+
+### CONTRIBUTING
+
+You can see into `AskIITiansDumpedJuicyURLs.txt` to get more idea on the website structure of *[askiitians.com](https://www.askiitians.com/)*
